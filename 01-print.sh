@@ -1,3 +1,3 @@
 ls
-cat 7etc/passwd
+cat /etc/passwd
 find / -name shadow
